@@ -1,4 +1,8 @@
 ### Hi there 👋
+[![amrzv's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrzv&theme=gotham&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Colabs](https://github-readme-stats.vercel.app/api/pin/?username=amrzv&repo=awesome-colab-notebooks&show_owner=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **amrzv/amrzv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

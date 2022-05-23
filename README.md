@@ -2,7 +2,12 @@
 
 [![amrzv's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrzv&theme=gotham&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Colabs](https://github-readme-stats.vercel.app/api/pin/?username=amrzv&repo=awesome-colab-notebooks&theme=gotham)](https://github.com/amrzv/awesome-colab-notebooks)
+<a href="https://github.com/amrzv/awesome-colab-notebooks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amrzv&repo=awesome-colab-notebooks&theme=gotham" />
+</a>
+<a href="https://stars.medv.io/amrzv/awesome-colab-notebooks">
+  <img align="center" src="https://stars.medv.io/amrzv/awesome-colab-notebooks.svg" />
+</a>
 
 ![](https://komarev.com/ghpvc/?username=amrzv&style=for-the-badge&color=2aa889)
 <!--
